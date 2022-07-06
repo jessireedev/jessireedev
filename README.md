@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Jessiree and I'm a software engineer specializing on JavaScript technologies and Github is where I showcase my personal software projects. 
+
+🌱 I’m currently learning:
+* TypeScript, NestJS, PostgreSQL and Redis
+
+📫 How to reach me:
+* Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/jessireedev/) if you have a project or an opportunity you'd like to discuss with me.
