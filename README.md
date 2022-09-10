@@ -15,10 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Jessiree and I'm a software engineer specializing on JavaScript technologies and Github is where I showcase my personal software projects. 
+I'm Jessiree and I'm a software engineer specializing on web development and Github is where I showcase my personal software projects. 
+
+🔭 My current stack includes:
+* TypeScript, NestJS, PostgreSQL and Redis
 
 🌱 I’m currently learning:
-* TypeScript, NestJS, PostgreSQL and Redis
+* Go & Vue
 
 📫 How to reach me:
 * Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/jessireedev/) if you have a project or an opportunity you'd like to discuss with me.
