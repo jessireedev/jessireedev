@@ -21,7 +21,7 @@ I'm Jessiree and I'm a software engineer specializing on web development and Git
 * TypeScript, NestJS, PostgreSQL and Redis
 
 🌱 I’m currently learning:
-* Go & Vue
+* Python
 
 📫 How to reach me:
 * Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/jessireedev/) if you have a project or an opportunity you'd like to discuss with me.
