@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **jessireedev/jessireedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,13 +15,28 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Jessiree and I'm a software engineer specializing on web development and Github is where I showcase my personal software projects. 
+I'm Jessiree and I'm a software engineer currently based in Manila specializing on web development and Github is where I showcase my personal software projects. 
 
-🔭 My current stack includes:
-* TypeScript, NestJS, PostgreSQL and Redis
+## My Stack
 
-🌱 I’m currently learning:
-* Python
+### Backend
+* Node.js
+* Nest.js
+* Typescript
+* Express
+* Swagger
+* PostgreSQL
+* MongoDB
+* Redis
 
-📫 How to reach me:
+### Frontend
+* Next.js
+* Create React App
+* Gatsby
+
+### Testing
+* Cypress
+* Jest
+
+## Contact
 * Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/jessireedev/) if you have a project or an opportunity you'd like to discuss with me.
