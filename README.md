@@ -38,5 +38,9 @@ I'm Jessiree and I'm a software engineer currently based in Manila specializing 
 * Cypress
 * Jest
 
+## Certifications
+
+* [freeCodeCamp - Back End Development and APIs](https://www.freecodecamp.org/certification/jessireedev/back-end-development-and-apis)
+
 ## Contact
 * Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/jessireedev/) if you have a project or an opportunity you'd like to discuss with me.
