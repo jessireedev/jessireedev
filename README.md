@@ -31,17 +31,10 @@ I'm Jessiree and I'm a software engineer currently based in Manila specializing 
 
 ### Frontend
 * Next.js
-* Create React App
-* Gatsby
 
 ### Testing
 * Cypress
 * Jest
-
-## Course Certificates
-
-* [freeCodeCamp - Back End Development and APIs](https://www.freecodecamp.org/certification/jessireedev/back-end-development-and-apis)
-* [Code with Mosh - The Ultimate Typescript Course](https://drive.google.com/file/d/1Vr9EWLnEFqOBP6EGyZ-PMAVvu8WvaeMZ/view)
 
 ## Contact
 * Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/jessireedev/) if you have a project or an opportunity you'd like to discuss with me.
