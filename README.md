@@ -15,26 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Jessiree and I'm a software engineer currently based in Manila specializing on web development and Github is where I showcase my personal software projects. 
+Hello! My name is Jessiree. My interest in programming started way back in high school when we were taught about the basics of HTML, JavaScript and CSS - which also inspired me to take up Computer Science in university. Moving forward to the present, I am now a software engineer who has worked with several startup founders which involved building apps from the ground-up: from planning the software and data architecture to shipping functional applications used by their customers.
 
-## My Stack
+## My Current Stack
 
-### Backend
-* Node.js
-* Nest.js
-* Typescript
-* Express
-* Swagger
-* PostgreSQL
-* MongoDB
-* Redis
-
-### Frontend
-* Next.js
-
-### Testing
-* Cypress
-* Jest
+* TypeScript, NestJS, PostgreSQL, Redis, React, Material UI
 
 ## Contact
 * Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/jessireedev/) if you have a project or an opportunity you'd like to discuss with me.
