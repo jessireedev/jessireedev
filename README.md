@@ -19,7 +19,7 @@ Hello! My name is Jessiree. My interest in programming started way back in high 
 
 ## My Current Stack
 
-* TypeScript, NestJS, PostgreSQL, Redis, React, Material UI
+* TypeScript, NestJS, PostgreSQL, Redis, React, Next.js, Material UI
 
 ## Contact
 * Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/jessireedev/) if you have a project or an opportunity you'd like to discuss with me.
