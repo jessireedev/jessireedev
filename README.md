@@ -22,4 +22,4 @@ Hello! My name is Jessiree. My interest in programming started way back in high 
 * TypeScript, NestJS, PostgreSQL, Redis, React, Next.js, Material UI
 
 ## Contact
-* Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/jessireedev/) if you have a project or an opportunity you'd like to discuss with me.
+* Feel free to reach me [here](mailto:jessireedevera@gmail.com) if you have a project or an opportunity you'd like to discuss with me.
